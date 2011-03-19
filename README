@@ -1,0 +1,10 @@
+HTTP Client / Soup
+==================
+
+well one file atm ; use the source luke.
+
+
+Dependencies
+------------
+
+easy_install pyquery
